@@ -5,9 +5,9 @@
 
 </a>
 
-- I’m currently working in <a href="https://beycelikgestamp.com.tr/" target="blank">Beyçelik Gestamp. </a>
+- I’m currently working in <a href="https://beycelikgestamp.com.tr/" target="blank">Inoksan. </a>
 
-- I’m currently working as a Software Development Specialist.
+- I’m currently working as a SAP Development Specialist.
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">About me 🤝 </h3>
 
@@ -23,3 +23,4 @@
       </div>
 
 </p>
+
