@@ -5,7 +5,7 @@
 
 </a>
 
-- I’m currently working in <a href="https://beycelikgestamp.com.tr/" target="blank">Inoksan. </a>
+- I’m currently working in <a href="https://www.inoksan.com/" target="blank">Inoksan. </a>
 
 - I’m currently working as a SAP Development Specialist.
 <br/>
@@ -23,4 +23,5 @@
       </div>
 
 </p>
+
 
